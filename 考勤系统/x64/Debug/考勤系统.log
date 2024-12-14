@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(72,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(289,1): warning C4715: “modify_user”: 不是所有的控件路径都返回值
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(392,1): warning C4715: “guanliyuan_check”: 不是所有的控件路径都返回值
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(545,1): warning C4715: “xiugaimima”: 不是所有的控件路径都返回值
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(575,1): warning C4715: “apply_handle”: 不是所有的控件路径都返回值
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(605,1): warning C4715: “apply”: 不是所有的控件路径都返回值
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(916,1): warning C4715: “identity_check_s”: 不是所有的控件路径都返回值
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(954,1): warning C4715: “identity_check_t”: 不是所有的控件路径都返回值
+  考勤系统.vcxproj -> D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\x64\Debug\考勤系统.exe

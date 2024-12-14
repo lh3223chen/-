@@ -1,0 +1,11 @@
+﻿  FileName.cpp
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(101,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(451,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(483,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\FileName.cpp(430): warning C4715: “guanliyuan_check”: 不是所有的控件路径都返回值
+  2 of 688 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  考勤系统.vcxproj -> D:\Users\lh322\Documents\文件\cpp项目\cpp\考勤系统\x64\Release\考勤系统.exe
